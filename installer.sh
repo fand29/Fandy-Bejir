@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/ubotfand/Fandy-Bejir.git"
-DIR="/root/ubotfand29"
+REPO="https://github.com/fand29/Fandy-Bejir.git"
+DIR="/root/fand29"
 
 spinner(){
     local pid=$!
