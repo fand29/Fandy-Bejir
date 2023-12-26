@@ -132,7 +132,7 @@ async def own(event):
         mention=event.sender.mention, me=inline_mention(ayra_bot.me)
     )
     if custom_info:
-        msg += "\n\n• Powered by **@kynansupport**"
+        msg += "\n\n• Powered by **@skyfand**"
     await event.edit(
         msg,
         buttons=[Button.inline("Tutup", data="closeit")],
