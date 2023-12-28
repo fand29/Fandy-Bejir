@@ -71,14 +71,14 @@ in_alive = """
 
 absen = [
     "**Hadir Sayang** 😳",
-    "**Hadir Bro Kynan** 😁",
-    "**Maaf ka habis nemenin ka Kynan** 🥺",
-    "**Maaf ka habis disuruh Tuan Kynan** 🥺🙏🏻",
-    "**Hadir Kynan Sayang** 😘",
-    "**Hadir Kynan Akuuuuhhh** ☺️",
-    "**Hadir Kynan brother Aku** 🥰",
-    "**Sokap bet lu**",
-    "**Apasi Bawel** 🥰",
+    "**Hadir Bro Fandy** 😁",
+    "**Maaf ka habis nemenin ka Fandy** 🥺",
+    "**Maaf ka habis disuruh Tuan Fandy** 🥺🙏🏻",
+    "**Hadir Fandy Sayang** 😘",
+    "**Hadir Fandy Akuuuuhhh** ☺️",
+    "**Hadir Fandy brother Aku** 🥰",
+    "**Sokap bet lu Anjing Fandy**",
+    "**Apasi Bawel Fandy** 🥰",
 ]
 
 
