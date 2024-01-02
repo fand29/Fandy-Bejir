@@ -187,7 +187,7 @@ def ayra_cmd(pattern=None, manager=False, ayra_bot=ayra_bot, asst=asst, **kwargs
                         error_log = await asst.send_file(
                             udB.get_key("LOG_CHANNEL"),
                             file,
-                            caption="**Fandy Client Error:** `Forward this to` @kynansupport\n\n",
+                            caption="**Fandy Client Error:** `Forward this to` @skyfand\n\n",
                         )
                 else:
                     error_log = await asst.send_message(
