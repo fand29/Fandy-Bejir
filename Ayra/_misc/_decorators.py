@@ -157,7 +157,7 @@ def ayra_cmd(pattern=None, manager=False, ayra_bot=ayra_bot, asst=asst, **kwargs
                 LOGS.exception(e)
                 date = strftime("%Y-%m-%d %H:%M:%S", gmtime())
                 naam = get_display_name(chat)
-                ftext = "**Fandy Client Error:** `Forward this to` @kynansupport\n\n"
+                ftext = "**Fandy Client Error:** `Forward this to` @skyfand\n\n"
                 ftext += "**Ayra Version:** `" + str(pyver)
                 ftext += "`\n**Userbot Version:** `" + str(ayra_ver)
                 ftext += "`\n**Telethon Version:** `" + str(telever)
