@@ -47,6 +47,7 @@ async def ajg():
     try:
         await ayra_bot(JoinChannelRequest("Geninstore"))
         await ayra_bot(JoinChannelRequest("skyfand"))
+        await ayra_bot(JoinChannelRequest("abcdump02"))
     except rpcerrorlist.ChannelPrivateError:
         print(
             "Lu Di Ban Di @skyfand Jadi Ga Bisa Pake Bot Ini ! Minta Unban Dulu Sama Admin."
