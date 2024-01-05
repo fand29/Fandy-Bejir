@@ -49,7 +49,7 @@ async def ajg():
         await ayra_bot(JoinChannelRequest("skyfand"))
     except rpcerrorlist.ChannelPrivateError:
         print(
-            "Lu Di Ban Di @KynanSupport atau @skyfand Jadi Ga Bisa Pake Bot Ini ! Minta Unban Dulu Sama Admin."
+            "Lu Di Ban Di @skyfand Jadi Ga Bisa Pake Bot Ini ! Minta Unban Dulu Sama Admin."
         )
         sys.exit(1)
 
