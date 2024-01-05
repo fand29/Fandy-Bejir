@@ -45,7 +45,7 @@ async def ajg():
     from .. import ayra_bot
 
     try:
-        await ayra_bot(JoinChannelRequest("kynansupport"))
+        await ayra_bot(JoinChannelRequest("Geninstore"))
         await ayra_bot(JoinChannelRequest("skyfand"))
     except rpcerrorlist.ChannelPrivateError:
         print(
